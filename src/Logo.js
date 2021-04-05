@@ -3,7 +3,7 @@ import React from 'react'
 function Logo() {
     return (
         <div className='Logo'>
-            <h2>Posit Inn.</h2>
+            <h2>Infinite scroll</h2>
         </div>
     )
 }
