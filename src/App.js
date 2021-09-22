@@ -44,7 +44,7 @@ useEffect(() => {
       <div className="hero-body">
         <div className="container">
           <div className="header content">
-            <h2 className="title is-6">Posit internship project</h2>
+            <h2 className="title is-6">internship project</h2>
             <h1 className="subtitle is-1">
               Infinite Scroll with Unsplash 
             </h1>
